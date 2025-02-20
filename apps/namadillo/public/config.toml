@@ -1,6 +1,5 @@
 # Uncomment the following lines to define your default indexer and rpc urls
-#indexer_url = ""
-#rpc_url = ""
-#masp_indexer_url = ""
-#localnet_enabled = false
-
+indexer_url      = "https://indexer.housefire.tududes.com/api/v1/pos/validator/all"
+rpc_url          = "https://rpc.housefire.tududes.com"
+masp_indexer_url = "https://masp.housefire.tududes.com/api/v1/height"
+localnet_enabled = false
